@@ -2,6 +2,9 @@
 <h3 align="center">Full Stack Developer | React Native | Node.js | MERN Stack</h3>
 
 <p align="center">
+  <a href="https://ajay1223tiwari.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/ajay-tiwari1223" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -100,5 +103,5 @@ Linear Regression model predicting monthly patient inflow using 12 months of hea
 ---
 
 <p align="center">
-  📫 Reach out to me on <a href="https://www.linkedin.com/in/ajay-tiwari1223" target="_blank">LinkedIn</a> — always open to opportunities and collaborations!
+  🌐 Check out my full <a href="https://ajay1223tiwari.github.io" target="_blank">portfolio</a> or reach out on <a href="https://www.linkedin.com/in/ajay-tiwari1223" target="_blank">LinkedIn</a> — always open to opportunities and collaborations!
 </p>
